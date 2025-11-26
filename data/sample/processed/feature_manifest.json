@@ -1,0 +1,17 @@
+{
+  "feature_names": [
+    "candidate_hero_id",
+    "role",
+    "patch",
+    "hero_global_winrate",
+    "hero_games_count",
+    "pairwise_synergy_score",
+    "counter_score",
+    "avg_item_timing_first",
+    "avg_item_timing_second",
+    "skill_bracket",
+    "bans_count",
+    "n_allies_known",
+    "n_enemies_known"
+  ]
+}

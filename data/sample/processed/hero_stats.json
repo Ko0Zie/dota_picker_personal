@@ -1,0 +1,44 @@
+{
+  "1": {
+    "wins": 2800,
+    "games": 5200,
+    "hero_global_winrate": 0.54,
+    "avg_item_timing_first": 780,
+    "avg_item_timing_second": 1500
+  },
+  "8": {
+    "wins": 3200,
+    "games": 6400,
+    "hero_global_winrate": 0.5,
+    "avg_item_timing_first": 640,
+    "avg_item_timing_second": 1310
+  },
+  "74": {
+    "wins": 3800,
+    "games": 7200,
+    "hero_global_winrate": 0.53,
+    "avg_item_timing_first": 600,
+    "avg_item_timing_second": 1320
+  },
+  "42": {
+    "wins": 2100,
+    "games": 4000,
+    "hero_global_winrate": 0.52,
+    "avg_item_timing_first": 620,
+    "avg_item_timing_second": 1400
+  },
+  "66": {
+    "wins": 2600,
+    "games": 6200,
+    "hero_global_winrate": 0.42,
+    "avg_item_timing_first": 500,
+    "avg_item_timing_second": 1100
+  },
+  "3": {
+    "wins": 2400,
+    "games": 5000,
+    "hero_global_winrate": 0.48,
+    "avg_item_timing_first": 520,
+    "avg_item_timing_second": 1180
+  }
+}

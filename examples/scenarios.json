@@ -1,0 +1,26 @@
+[
+  {
+    "name": "carry_vs_magic",
+    "role": "carry",
+    "enemy_picks": ["Invoker", "Lion", "Queen of Pain"],
+    "ally_picks": ["Bane", "Vengeful Spirit"],
+    "bans": ["Juggernaut", "Sven"],
+    "patch": "7.36c"
+  },
+  {
+    "name": "mid_vs_push",
+    "role": "mid",
+    "enemy_picks": ["Juggernaut", "Bane", "Lion"],
+    "ally_picks": ["Vengeful Spirit", "Sven"],
+    "bans": ["Invoker"],
+    "patch": "7.36"
+  },
+  {
+    "name": "support_hold",
+    "role": "support",
+    "enemy_picks": ["Anti-Mage", "Shadow Fiend"],
+    "ally_picks": ["Sven"],
+    "bans": ["Lion"],
+    "patch": "7.36c"
+  }
+]

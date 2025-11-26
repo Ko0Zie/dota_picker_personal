@@ -1,0 +1,25 @@
+{
+  "1": {
+    "start_game_items": {
+      "tango": {"winrate": 0.51, "games": 1200, "avg_time": 60},
+      "quelling_blade": {"winrate": 0.5, "games": 1100, "avg_time": 120}
+    },
+    "early_game_items": {
+      "power_treads": {"winrate": 0.53, "games": 900, "avg_time": 420}
+    },
+    "mid_game_items": {
+      "battle_fury": {"winrate": 0.55, "games": 800, "avg_time": 900}
+    }
+  },
+  "74": {
+    "start_game_items": {
+      "faerie_fire": {"winrate": 0.49, "games": 1000, "avg_time": 30}
+    },
+    "early_game_items": {
+      "hand_of_midas": {"winrate": 0.57, "games": 700, "avg_time": 600}
+    },
+    "mid_game_items": {
+      "black_king_bar": {"winrate": 0.6, "games": 500, "avg_time": 1500}
+    }
+  }
+}
