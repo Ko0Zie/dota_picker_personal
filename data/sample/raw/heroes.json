@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "npc_dota_hero_antimage",
+    "localized_name": "Anti-Mage",
+    "roles": ["Carry", "Escape"]
+  },
+  {
+    "id": 11,
+    "name": "npc_dota_hero_shadow_fiend",
+    "localized_name": "Shadow Fiend",
+    "roles": ["Carry", "Mid"]
+  },
+  {
+    "id": 8,
+    "name": "npc_dota_hero_juggernaut",
+    "localized_name": "Juggernaut",
+    "roles": ["Carry"]
+  },
+  {
+    "id": 74,
+    "name": "npc_dota_hero_invoker",
+    "localized_name": "Invoker",
+    "roles": ["Mid"]
+  },
+  {
+    "id": 3,
+    "name": "npc_dota_hero_bane",
+    "localized_name": "Bane",
+    "roles": ["Support"]
+  },
+  {
+    "id": 66,
+    "name": "npc_dota_hero_lion",
+    "localized_name": "Lion",
+    "roles": ["Support", "Hard Support"]
+  },
+  {
+    "id": 42,
+    "name": "npc_dota_hero_queenofpain",
+    "localized_name": "Queen of Pain",
+    "roles": ["Mid"]
+  },
+  {
+    "id": 18,
+    "name": "npc_dota_hero_sven",
+    "localized_name": "Sven",
+    "roles": ["Carry"]
+  },
+  {
+    "id": 20,
+    "name": "npc_dota_hero_vengefulspirit",
+    "localized_name": "Vengeful Spirit",
+    "roles": ["Support"]
+  }
+]

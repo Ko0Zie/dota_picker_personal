@@ -1,0 +1,9 @@
+{
+  "steam_id": "123456789",
+  "preferred_heroes": [1, 74],
+  "avoid_heroes": [8],
+  "role_weights": {
+    "1": 0.01,
+    "74": 0.015
+  }
+}

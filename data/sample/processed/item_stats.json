@@ -1,0 +1,41 @@
+{
+  "1": {
+    "items": {
+      "battle_fury": {
+        "count": 400,
+        "avg_time": 900
+      },
+      "manta": {
+        "count": 350,
+        "avg_time": 1500
+      }
+    },
+    "total_matches": 5200
+  },
+  "8": {
+    "items": {
+      "maelstrom": {
+        "count": 420,
+        "avg_time": 800
+      },
+      "diffusal_blade": {
+        "count": 260,
+        "avg_time": 1100
+      }
+    },
+    "total_matches": 6400
+  },
+  "74": {
+    "items": {
+      "hand_of_midas": {
+        "count": 380,
+        "avg_time": 720
+      },
+      "black_king_bar": {
+        "count": 360,
+        "avg_time": 1500
+      }
+    },
+    "total_matches": 7200
+  }
+}
